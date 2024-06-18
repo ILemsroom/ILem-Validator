@@ -14,6 +14,7 @@
             "email": "ilemsroom@gmail.com"
         }
     ],
+    "version":"1.0.0",
     "minimum-stability": "stable",
     "require": {}
 }
